@@ -1,6 +1,5 @@
 .venv/
-cert.pem
-key.pem
+*.pem
 __pycache__/
 *.pyc
 config.json
